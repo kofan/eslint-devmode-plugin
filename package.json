@@ -2,7 +2,7 @@
   "name": "eslint-devmode-plugin",
   "version": "1.0.0",
   "description": "Development mode rules",
-  "main": "index.js",
+  "main": "lib/index.js",
   "directories": {
     "lib": "lib"
   },
@@ -11,6 +11,7 @@
   },
   "keywords": [
     "eslint",
+    "eslintplugin",
     "devmode"
   ],
   "author": "Nickolay Kofanov <kofan.com@gmail.com>",

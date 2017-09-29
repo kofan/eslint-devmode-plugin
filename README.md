@@ -1,4 +1,4 @@
-# eslint-devmode-plugin
+# eslint-plugin-devmode
 
 This plugin allows to use `console` object in the development mode i.e.
 
