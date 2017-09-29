@@ -1,0 +1,18 @@
+{
+  "name": "eslint-devmode-plugin",
+  "version": "1.0.0",
+  "description": "Development mode rules",
+  "main": "index.js",
+  "directories": {
+    "lib": "lib"
+  },
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "eslint",
+    "devmode"
+  ],
+  "author": "Nickolay Kofanov <kofan.com@gmail.com>",
+  "license": "MIT"
+}
